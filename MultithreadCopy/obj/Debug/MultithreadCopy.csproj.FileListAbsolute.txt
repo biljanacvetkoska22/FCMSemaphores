@@ -1,0 +1,10 @@
+C:\Users\joseph.demanuele\Desktop\MultithreadCopyV2\MultithreadCopyV2\MultithreadCopy\MultithreadCopy\bin\Debug\MultithreadCopy.exe.config
+D:\Users\User\Desktop\Multitreading  file copy solutions\MultithreadCopy_threads_Semaphores\MultithreadCopy\bin\Debug\MultithreadCopy.exe.config
+D:\Users\User\Desktop\Multitreading  file copy solutions\MultithreadCopy_threads_Semaphores\MultithreadCopy\bin\Debug\MultithreadCopy.exe
+D:\Users\User\Desktop\Multitreading  file copy solutions\MultithreadCopy_threads_Semaphores\MultithreadCopy\bin\Debug\MultithreadCopy.pdb
+D:\Users\User\Desktop\Multitreading  file copy solutions\MultithreadCopy_threads_Semaphores\MultithreadCopy\obj\Debug\MultithreadCopy.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Multitreading  file copy solutions\MultithreadCopy_threads_Semaphores\MultithreadCopy\obj\Debug\MultithreadCopy.exe
+D:\Users\User\Desktop\Multitreading  file copy solutions\MultithreadCopy_threads_Semaphores\MultithreadCopy\obj\Debug\MultithreadCopy.pdb
+D:\Users\User\Documents\Visual Studio 2015\Projects\MultithreadCopy_threads_Semaphores\MultithreadCopy_threads_Semaphores\MultithreadCopy\bin\Debug\MultithreadCopy.exe.config
+D:\Users\User\Documents\Visual Studio 2015\Projects\MultithreadCopy_threads_Semaphores\MultithreadCopy_threads_Semaphores\MultithreadCopy\obj\Debug\MultithreadCopy.exe
+D:\Users\User\Documents\Visual Studio 2015\Projects\MultithreadCopy_threads_Semaphores\MultithreadCopy_threads_Semaphores\MultithreadCopy\obj\Debug\MultithreadCopy.pdb
